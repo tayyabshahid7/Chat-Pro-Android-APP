@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "330658195507",
+    "firebase_url": "https://chat-pro-feae2.firebaseio.com",
+    "project_id": "chat-pro-feae2",
+    "storage_bucket": "chat-pro-feae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330658195507:android:dc2fbf2b86bd62be",
+        "android_client_info": {
+          "package_name": "com.wartech.chatpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330658195507-s210ockfbol8avv98p2kjfokqnlinksp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfbhGhsAzYE34B4PZvaZ6fpCyPHrNlT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
